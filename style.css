@@ -12,3 +12,8 @@ body {
 strong {
     color: #22d4fd;
 }
+
+.Apresentacao{
+    display: flex;
+    align-items: center;
+}
