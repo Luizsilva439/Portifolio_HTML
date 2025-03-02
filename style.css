@@ -17,7 +17,7 @@ strong {
 }
 
 .Apresentacao{
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -25,10 +25,14 @@ strong {
 
 img{
     border-radius: 10%;
+    width: 40%;
 }
 
 .Apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .Apresentacao__conteudo__titulo{
